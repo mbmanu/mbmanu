@@ -9,8 +9,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbmanu&theme=algolia&layout=compact" alt="mbmanu" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbmanu&count_private=true&show_icons=true&theme=algolia&hide=stars,issues" alt="mbmanu" /></p>
 
-<p>
-<h3 align="center">Connect with me:</h3>
+<p align="center">
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/manumb" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="manumb" height="30" width="40" /></a>
 <a href="https://instagram.com/mbmanu74" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="mbmanu74" height="30" width="40" /></a>
 <a href="mailto:mbmanu74@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="mbmanu74" height="30" width="40" /></a>
