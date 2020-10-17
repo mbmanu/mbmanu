@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu M B</h1>
-<h3 align="center">techHead</h3>
+<h3 align="left">A tech head pursuing Bachelor of Engineering in Electronics and Communication, 5th semester at National Institute of Engineering. Interested in the field of Internet of Things, Embedded Systems, VLSI, and Computer Networking. </h3>
 
 - ⚡ Fun fact **Life is a struggle when you are a muggle**
 
