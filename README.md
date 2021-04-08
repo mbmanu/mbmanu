@@ -12,7 +12,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/manumb" target="blank"><img align="centre" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="manumb" height="30" width="40" /></a>
-<a href="https://instagram.com/mbmanu74" target="blank"><img align="centre" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="mbmanu74" height="30" width="40" /></a>
 <a href="mailto:mbmanu74@gmail.com" target="blank"><img align="centre" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="mbmanu74" height="30" width="40" /></a>
 </p>
 
