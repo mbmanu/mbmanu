@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu M B</h1>
-<h3 align="left">A tech head pursuing B.E. in Electronics and Communication, 6th semester at National Institute of Engineering, Mysore. Interested in the field of Internet of Things, Embedded Systems, VLSI, and Computer Networking. </h3>
+<h3 align="left">A tech head pursuing Bachelors in Electronics and Communication from the National Institute of Engineering, Mysore. Interested in the field of Embedded Systems, Internet of Things, and VLSI. </h3>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <!--<h3 align="left">Languages and Tools:</h3>
